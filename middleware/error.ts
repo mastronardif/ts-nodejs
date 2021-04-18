@@ -5,11 +5,11 @@ function logErrors (err: Error, req: Request, res: Response, next: NextFunction)
     //console.error(err.stack);
     Logger.error('xxxxxxxxxxxxxxxxxx s s s  s s');
     
-  Logger.error("logErrors is an error log");
-  Logger.warn("logErrors is a warn log");
-  Logger.info("logErrors is a info log");
-  Logger.http("logErrors is a http log");
-  Logger.debug("logErrors is a debug log");
+  Logger.error("ZZERROR:"+ err);
+  // Logger.warn("logErrors is a warn log");
+  // Logger.info("logErrors is a info log");
+  // Logger.http("logErrors is a http log");
+  // Logger.debug("logErrors is a debug log");
 
     next(err)
   }

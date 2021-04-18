@@ -17,10 +17,8 @@ Logger.info(
 );
 const myPort = process.env.port || port || 3000;
 //sample_mflix.users
-//const uriDB = "mongodb+srv://mastronardif:zzzz!@cluster0.bx2it.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
 const uriDB = `mongodb+srv://mastronardif:${dbPassword}@cluster0.bx2it.mongodb.net/sample_mflix?retryWrites=true&w=majority`;
 
-//mongoose.connect('mongodb://localhost:27017/test-todo', {
 mongoose.connect(
   uriDB,
   {
@@ -50,7 +48,7 @@ app.use(userRouter);
 
 ///////////////////////////////
 app.get("/wtf", function (req, res, next) {
-  fs.readFile("index.js", "utf-8", function (err, data) {
+  fs.readFile("./public/html/bobo.html", "utf-8", function (err, data) {
     if (err) {
       next(err);
     }
@@ -107,7 +105,6 @@ app.listen(myPort, () => {
   
 // function testDB() {
 
-//     const uri = "mongodb+srv://mastronardif:zzzzzzz@cluster0.bx2it.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
 //     const client = new MongoClient(uri, { useNewUrlParser: true, useUnifiedTopology: true });
 //     client.connect((err: any) => {
 //         const collection = client.db("test").collection("devices");
@@ -138,7 +135,6 @@ function queryDB22() {
 }
 
 // function queryDB() {
-//     const uri = "mongodb+srv://mastronardif:zzzz!@cluster0.bx2it.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
 
 //     const client = new MongoClient(uri, {
 //         useNewUrlParser: true,
