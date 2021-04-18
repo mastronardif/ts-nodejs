@@ -1,0 +1,408 @@
+
+   22  npm install
+   23  ng update
+   24  pwd
+   25  code .
+   26  ngj serve
+   27  ng serve
+   28  exit
+   29  code .
+   30  ng serve
+   31  dir
+   32  cd ..
+   33  ls
+   34  cd ..
+   35  ls
+   36  ls -tlar
+   37  cd the-complete-guide-to-angular/
+   38  ls
+   39  cd http-09-finished/
+   40  ls
+   41  ng update
+   42  npm install
+   43  npm fund
+   44  npm start
+   45  cdoe .
+   46  code .
+   47  npm start
+   48  pwd
+   49  exit
+   50  git clone  https://github.com/SinghDigamber/angularfirebase-authentication.git
+   51  exit
+   52  code .
+   53  ng update
+   54  ng update @angular/core @angular/cli
+   55  history
+   56  ls -trla
+   57  ng update
+   58  ng update @angular/cli
+   59  npm install
+   60  ng update
+   61  ng serve
+   62  ng update
+   63  cd ..
+   64  ls
+   65  ls -trla
+   66  ls
+   67  cd obs-01-start/
+   68  ng update
+   69  npm install
+   70  npm start
+   71  cd ..
+   72  cd obs-03-complete-custom-observable/
+   73  npm install
+   74  pwd
+   75  cod .
+   76  code 
+   77  code .
+   78  ng update
+   79  npm install
+   80  ng update
+   81  ng serve
+   82  pwd
+   83  cd ..
+   84  cd obs-03-complete-custom-observable/
+   85  ng update
+   86  npm install
+   87  npm install
+   88  exit
+   89  ssh joeschedule.com
+   90  ssh www3.pairlite.com
+   91  ssh www3.pairlite.com
+   92  ssh joeschedule.com
+   93  ssh joeschedule.com
+   94  ssh pl1321@teddy0501.pairserver.com
+   95  ssh teddy0501.pairserver.com
+   96  ssh teddy0501.pairserver.com
+   97  exit
+   98  ping teddy0501.pairserver.com
+   99  ssh teddy0501.pairserver.com
+  100  ssh teddy0501@teddy0501.pairserver.com
+  101  exit
+  102  ls -trla
+  103  code 
+  104  exit
+  105  code .
+  106  exit
+  107  npm install
+  108  ng update
+  109  ng serve
+  110  exit
+  111  ng new wtfchangedetection
+  112  ls
+  113  cd wtfchangedetection/
+  114  ls
+  115  code .
+  116  npm start
+  117  exit
+  118  git status
+  119  code .
+  120  git config --global user.name "Frank Mastronardi"
+  121  git config -- global user.email "mastronardif@gmail.com"
+  122  git config --global user.email "mastronardif@gmail.com"
+  123  git status
+  124  git status
+  125  git status
+  126  git status
+  127  git status
+  128  git fetch
+  129  git status
+  130  git add .
+  131  git push
+  132  git pull
+  133  git push
+  134  git status
+  135  git add .
+  136  git commit -m update
+  137  git push
+  138  git status
+  139  exit
+  140  git config --global difftool.p4merge.path "C:/Program Files/Perforce/p4merge.exe"
+  141  git config --global difftool.prompt false
+  142  git config --global merge.tool p4merge
+  143  pwd
+  144  exit
+  145  npm start
+  146  exit
+  147  git clone https://github.com/trungk18/angular-spotify.git
+  148  ls
+  149  cd angular-spotify/
+  150  ls
+  151  code .
+  152  exit
+  153  tsc --init
+  154  npm install -g typescript
+  155  tsc --init
+  156  code .
+  157  touch greeter.ts
+  158  ts greeter.ts
+  159  ls
+  160  tsc greeter.ts
+  161  ts
+  162  node greeter.js 
+  163  node greeter.ts
+  164  tsc greeter.ts
+  165  tsc greeter.ts
+  166  node greeter.ts
+  167  node greeter.js 
+  168  tsc greeter.ts
+  169  node greeter.js 
+  170  tsc greeter.ts | node greeter.js
+  171  tsc greeter.ts
+  172  node greeter.js
+  173  npm install -g ts-
+  
+  178  ts-node greeter.ts
+  179  tsc greeter.ts
+  180  npm install --save-dev @types/node
+  181  tsc greeter.ts
+  182  ts-node greeter.ts
+  
+  188  tsc greeter.ts
+  189  ts-node greeter.ts
+  190  history
+  191  ts-node greeter.ts
+
+  214  tsc greeter.ts 
+  217  ts-node greeter.ts
+  218  tsc greeter.ts 
+
+  228  ts-node greeter.ts
+ 
+  249  ts-node greeter.ts 
+  262  curl "https://onecognizantazrappsproxysrvs.cognizant.com/2526/tmpwebapi//api/Job/RecommendedJob?proposalId=0&serviceOrderId=4187189" ^
+  263    -X "OPTIONS" ^
+  264    -H "Connection: keep-alive" ^
+  265    -H "Accept: */*" ^
+  266    -H "Access-Control-Request-Method: GET" ^
+  267    -H "Access-Control-Request-Headers: clientid,countrycode,defaulttimezone,tmpuser,token" ^
+  268    -H "Origin: https://onecognizantbcazrapps.cognizant.com" ^
+  269    -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" ^
+  270    -H "Sec-Fetch-Mode: cors" ^
+  271    -H "Sec-Fetch-Site: same-site" ^
+  272    -H "Sec-Fetch-Dest: empty" ^
+  273    -H "Referer: https://onecognizantbcazrapps.cognizant.com/" ^
+  274    -H "Accept-Language: en-US,en;q=0.9" ^
+  275    --compressed &
+  276  curl "https://onecognizantazrappsproxysrvs.cognizant.com/2526/tmpwebapi//api/Job/AddAssociateSOVisit?associateid=801465&serviceOrderId=4187189" ^
+  277    -X "OPTIONS" ^
+  278    -H "Connection: keep-alive" ^
+  279    -H "Accept: */*" ^
+  280    -H "Access-Control-Request-Method: POST" ^
+  281    -H "Access-Control-Request-Headers: clientid,countrycode,defaulttimezone,tmpuser,token" ^
+  282    -H "Origin: https://onecognizantbcazrapps.cognizant.com" ^
+  283    -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" ^
+  284    -H "Sec-Fetch-Mode: cors" ^
+  285    -H "Sec-Fetch-Site: same-site" ^
+  286    -H "Sec-Fetch-Dest: empty" ^
+  287    -H "Referer: https://onecognizantbcazrapps.cognizant.com/" ^
+  288    -H "Accept-Language: en-US,en;q=0.9" ^
+  289    --compressed &
+  290  curl "https://onecognizantazrappsproxysrvs.cognizant.com/2526/tmpwebapi//api/Job/RecommendedJob?proposalId=0&serviceOrderId=4187189" ^
+  291    -H "Connection: keep-alive" ^
+  292    -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"89^\^", ^\^"Chromium^\^";v=^\^"89^\^", ^\^";Not A Brand^\^";v=^\^"99^\^"" ^
+  293    -H "sec-ch-ua-mobile: ?0" ^
+  294    -H "tmpUser: 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" ^
+  295    -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" ^
+  296    -H "Accept: application/json, text/plain, */*" ^
+  297    -H "clientId: OEMyMDI0OUUtRTgyRi00QjcwLTlCQzgtODVBN0E5QjFDQTky" ^
+  298    -H "countryCode: USA" ^
+  299    -H "defaultTimeZone: India Standard Time" ^
+  300    -H "token: WnM0L1podFVIN293ZFpmYStTTnE2NXVuWURDdFJ4TFRtR1RuUVBiUHFBdz06OEMyMDI0OUUtRTgyRi00QjcwLTlCQzgtODVBN0E5QjFDQTkyOjFkODMwZDQyLTg4ZDctNDA0MS1hZjExLTVhMDc1MGVlZTI3Njo2Mzc1MzkzNTc5MzI3MjUwNDY=" ^
+  301    -H "Origin: https://onecognizantbcazrapps.cognizant.com" ^
+  302    -H "Sec-Fetch-Site: same-site" ^
+  303    -H "Sec-Fetch-Mode: cors" ^
+  304    -H "Sec-Fetch-Dest: empty" ^
+  305    -H "Referer: https://onecognizantbcazrapps.cognizant.com/" ^
+  306    -H "Accept-Language: en-US,en;q=0.9" ^
+  307    --compressed &
+  308  curl "https://onecognizantazrappsproxysrvs.cognizant.com/2526/tmpwebapi//api/Job/AddAssociateSOVisit?associateid=801465&serviceOrderId=4187189" ^
+  309    -X "POST" ^
+  310    -H "Connection: keep-alive" ^
+  311    -H "Content-Length: 0" ^
+  312    -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"89^\^", ^\^"Chromium^\^";v=^\^"89^\^", ^\^";Not A Brand^\^";v=^\^"99^\^"" ^
+  313    -H "sec-ch-ua-mobile: ?0" ^
+  314    -H "tmpUser: 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" ^
+  315    -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" ^
+  316    -H "Accept: application/json, text/plain, */*" ^
+  317    -H "clientId: OEMyMDI0OUUtRTgyRi00QjcwLTlCQzgtODVBN0E5QjFDQTky" ^
+  318    -H "countryCode: USA" ^
+  319    -H "defaultTimeZone: India Standard Time" ^
+  320    -H "token: WnM0L1podFVIN293ZFpmYStTTnE2NXVuWURDdFJ4TFRtR1RuUVBiUHFBdz06OEMyMDI0OUUtRTgyRi00QjcwLTlCQzgtODVBN0E5QjFDQTkyOjFkODMwZDQyLTg4ZDctNDA0MS1hZjExLTVhMDc1MGVlZTI3Njo2Mzc1MzkzNTc5MzI3MjUwNDY=" ^
+  321    -H "Origin: https://onecognizantbcazrapps.cognizant.com" ^
+  322    -H "Sec-Fetch-Site: same-site" ^
+  323    -H "Sec-Fetch-Mode: cors" ^
+  324    -H "Sec-Fetch-Dest: empty" ^
+  325    -H "Referer: https://onecognizantbcazrapps.cognizant.com/" ^
+  326    -H "Accept-Language: en-US,en;q=0.9" ^
+  327    --compressed &
+  328  curl "https://onecognizantbcazrapps.cognizant.com/2526/TMPWebApp/Associate/Home/KeepAlive" ^
+  329    -H "Connection: keep-alive" ^
+  330    -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"89^\^", ^\^"Chromium^\^";v=^\^"89^\^", ^\^";Not A Brand^\^";v=^\^"99^\^"" ^
+  331    -H "sec-ch-ua-mobile: ?0" ^
+  332    -H "tmpUser: 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" ^
+  333    -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" ^
+  334    -H "Accept: application/json, text/plain, */*" ^
+  335    -H "clientId: OEMyMDI0OUUtRTgyRi00QjcwLTlCQzgtODVBN0E5QjFDQTky" ^
+  336    -H "countryCode: USA" ^
+  337    -H "ADRUM: isAjax:true" ^
+  338    -H "defaultTimeZone: India Standard Time" ^
+  339    -H "token: WnM0L1podFVIN293ZFpmYStTTnE2NXVuWURDdFJ4TFRtR1RuUVBiUHFBdz06OEMyMDI0OUUtRTgyRi00QjcwLTlCQzgtODVBN0E5QjFDQTkyOjFkODMwZDQyLTg4ZDctNDA0MS1hZjExLTVhMDc1MGVlZTI3Njo2Mzc1MzkzNTc5MzI3MjUwNDY=" ^
+  340    -H "Sec-Fetch-Site: same-origin" ^
+  341    -H "Sec-Fetch-Mode: cors" ^
+  342    -H "Sec-Fetch-Dest: empty" ^
+  343    -H "Referer: https://onecognizantbcazrapps.cognizant.com/2526/TMPWebApp/Associate" ^
+  344    -H "Accept-Language: en-US,en;q=0.9" ^
+  345    --compressed &
+  346  curl "https://casapmeum.cognizant.com/eumcollector/beacons/browser/v1/EUM-AAB-CMB/adrum" ^
+  347    -H "Connection: keep-alive" ^
+  348    -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"89^\^", ^\^"Chromium^\^";v=^\^"89^\^", ^\^";Not A Brand^\^";v=^\^"99^\^"" ^
+  349    -H "sec-ch-ua-mobile: ?0" ^
+  350    -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" ^
+  351    -H "Content-type: text/plain" ^
+  352    -H "Accept: */*" ^
+  353    -H "Origin: https://onecognizantbcazrapps.cognizant.com" ^
+  354    -H "Sec-Fetch-Site: same-site" ^
+  355    -H "Sec-Fetch-Mode: cors" ^
+  356    -H "Sec-Fetch-Dest: empty" ^
+  357    -H "Referer: https://onecognizantbcazrapps.cognizant.com/" ^
+  358    -H "Accept-Language: en-US,en;q=0.9" ^
+  359    --data-raw "^{^\^"vr^\^":^\^"4.3.5.0^\^",^\^"dt^\^":^\^"R^\^",^\^"rg^\^":^\^"0^\^",^\^"es^\^":^[^{^\^"eg^\^":^\^"1^\^",^\^"et^\^":2,^\^"eu^\^":^\^"0://1/2/3/4/5/6^\^",^\^"ts^\^":1618339782470,^\^"mg^\^":^\^"2^\^",^\^"au^\^":^\^"0://1/2/3/4^#7^\^",^\^"at^\^":3,^\^"ud^\^":^{^\^"AssociateID^\^":^\^"801465^\^",^\^"AppID^\^":^\^"2526^\^",^\^"AppName^\^":^\^"TalentMarketPlace^\^",^\^"AppType^\^":^\^"1C Native Critical_Azure^\^",^\^"Portfolio^\^":^\^"Fulfilment IT Systems^\^",^\^"GradeCode^\^":^\^"E50^\^",^\^"BU^\^":^\^"ITUSA^\^",^\^"DepartmentName^\^":^\^"CDE Full Stack Engg^\^"^},^\^"pp^\^":3,^\^"mx^\^":^{^\^"PLC^\^":1,^\^"FBT^\^":332,^\^"DDT^\^":0,^\^"DPT^\^":0,^\^"PLT^\^":332,^\^"ARE^\^":0^},^\^"md^\^":^\^"GET^\^",^\^"xs^\^":200,^\^"sm^\^":^{^\^"cg^\^":^\^"1^\^",^\^"btgan^\^":^\^"customer1_6afc1704-d808-4f39-8f5c-00dfa296b417^\^",^\^"bt^\^":^[^{^\^"id^\^":^\^"34022^\^",^\^"dn^\^":-1,^\^"ert^\^":0^}^]^},^\^"si^\^":4149^},^{^\^"eg^\^":^\^"3^\^",^\^"et^\^":2,^\^"eu^\^":^\^"0://8/2/9//10/11/12?13^\^",^\^"ts^\^":1618339782463,^\^"mg^\^":^\^"2^\^",^\^"au^\^":^\^"0://1/2/3/4^#7^\^",^\^"at^\^":3,^\^"ud^\^":^{^\^"AssociateID^\^":^\^"801465^\^",^\^"AppID^\^":^\^"2526^\^",^\^"AppName^\^":^\^"TalentMarketPlace^\^",^\^"AppType^\^":^\^"1C Native Critical_Azure^\^",^\^"Portfolio^\^":^\^"Fulfilment IT Systems^\^",^\^"GradeCode^\^":^\^"E50^\^",^\^"BU^\^":^\^"ITUSA^\^",^\^"DepartmentName^\^":^\^"CDE Full Stack Engg^\^"^},^\^"pp^\^":3,^\^"mx^\^":^{^\^"PLC^\^":1,^\^"FBT^\^":2048,^\^"DDT^\^":0,^\^"DPT^\^":1,^\^"PLT^\^":2049,^\^"ARE^\^":0^},^\^"md^\^":^\^"GET^\^",^\^"xs^\^":200,^\^"si^\^":4150^},^{^\^"eg^\^":^\^"4^\^",^\^"et^\^":2,^\^"eu^\^":^\^"0://8/2/9//10/11/14?15^\^",^\^"ts^\^":1618339782468,^\^"mg^\^":^\^"2^\^",^\^"au^\^":^\^"0://1/2/3/4^#7^\^",^\^"at^\^":3,^\^"ud^\^":^{^\^"AssociateID^\^":^\^"801465^\^",^\^"AppID^\^":^\^"2526^\^",^\^"AppName^\^":^\^"TalentMarketPlace^\^",^\^"AppType^\^":^\^"1C Native Critical_Azure^\^",^\^"Portfolio^\^":^\^"Fulfilment IT Systems^\^",^\^"GradeCode^\^":^\^"E50^\^",^\^"BU^\^":^\^"ITUSA^\^",^\^"DepartmentName^\^":^\^"CDE Full Stack Engg^\^"^},^\^"pp^\^":3,^\^"mx^\^":^{^\^"PLC^\^":1,^\^"FBT^\^":2045,^\^"DDT^\^":0,^\^"DPT^\^":0,^\^"PLT^\^":2045,^\^"ARE^\^":0^},^\^"md^\^":^\^"POST^\^",^\^"xs^\^":200,^\^"si^\^":4151^}^],^\^"ai^\^":^\^"XD_17d477ef_1f56_0ee5_7216_840eb660c39e^\^",^\^"gs^\^":^[^\^"13ab10e8_caca_a28f_7548_169af2bdad05^\^",^\^"e57674d2-6190-44d7-92cc-94634239f74d^\^",^\^"0808dddb_162b_2595_94ce_5af03ee3738f^\^",^\^"3b9e5081_c6bf_2c60_5f87_00efcfbf6256^\^",^\^"558efd3a_873e_6c07_af40_74962ceabf33^\^"^],^\^"up^\^":^[^\^"https^\^",^\^"onecognizantbcazrapps.cognizant.com^\^",^\^"2526^\^",^\^"TMPWebApp^\^",^\^"Associate^\^",^\^"Home^\^",^\^"KeepAlive^\^",^\^"/^\^",^\^"onecognizantazrappsproxysrvs.cognizant.com^\^",^\^"tmpwebapi^\^",^\^"api^\^",^\^"Job^\^",^\^"RecommendedJob^\^",^\^"proposalId=0&serviceOrderId=4187189^\^",^\^"AddAssociateSOVisit^\^",^\^"associateid=801465&serviceOrderId=4187189^\^"^]^}" ^
+  360    --compressed
+  361  curl "https://onecognizantazrappsproxysrvs.cognizant.com/2526/tmpwebapi//api/Job/RecommendedJob?proposalId=0&serviceOrderId=4187189" ^
+  362    -X "OPTIONS" ^
+  363    -H "Connection: keep-alive" ^
+  364    -H "Accept: */*" ^
+  365    -H "Access-Control-Request-Method: GET" ^
+  366    -H "Access-Control-Request-Headers: clientid,countrycode,defaulttimezone,tmpuser,token" ^
+  367    -H "Origin: https://onecognizantbcazrapps.cognizant.com" ^
+  368    -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" ^
+  369    -H "Sec-Fetch-Mode: cors" ^
+  370    -H "Sec-Fetch-Site: same-site" ^
+  371    -H "Sec-Fetch-Dest: empty" ^
+  372    -H "Referer: https://onecognizantbcazrapps.cognizant.com/" ^
+  373    -H "Accept-Language: en-US,en;q=0.9" ^
+  374    --compressed &
+  375  curl "https://onecognizantazrappsproxysrvs.cognizant.com/2526/tmpwebapi//api/Job/AddAssociateSOVisit?associateid=801465&serviceOrderId=4187189" ^
+  376    -X "OPTIONS" ^
+  377    -H "Connection: keep-alive" ^
+  378    -H "Accept: */*" ^
+  379    -H "Access-Control-Request-Method: POST" ^
+  380    -H "Access-Control-Request-Headers: clientid,countrycode,defaulttimezone,tmpuser,token" ^
+  381    -H "Origin: https://onecognizantbcazrapps.cognizant.com" ^
+  382    -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" ^
+  383    -H "Sec-Fetch-Mode: cors" ^
+  384    -H "Sec-Fetch-Site: same-site" ^
+  385    -H "Sec-Fetch-Dest: empty" ^
+  386    -H "Referer: https://onecognizantbcazrapps.cognizant.com/" ^
+  387    -H "Accept-Language: en-US,en;q=0.9" ^
+  388    --compressed &
+  389  curl "https://onecognizantazrappsproxysrvs.cognizant.com/2526/tmpwebapi//api/Job/RecommendedJob?proposalId=0&serviceOrderId=4187189" ^
+  390    -H "Connection: keep-alive" ^
+  391    -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"89^\^", ^\^"Chromium^\^";v=^\^"89^\^", ^\^";Not A Brand^\^";v=^\^"99^\^"" ^
+  392    -H "sec-ch-ua-mobile: ?0" ^
+  393    -H "tmpUser: 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" ^
+  394    -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" ^
+  395    -H "Accept: application/json, text/plain, */*" ^
+  396    -H "clientId: OEMyMDI0OUUtRTgyRi00QjcwLTlCQzgtODVBN0E5QjFDQTky" ^
+  397    -H "countryCode: USA" ^
+  398    -H "defaultTimeZone: India Standard Time" ^
+  399    -H "token: WnM0L1podFVIN293ZFpmYStTTnE2NXVuWURDdFJ4TFRtR1RuUVBiUHFBdz06OEMyMDI0OUUtRTgyRi00QjcwLTlCQzgtODVBN0E5QjFDQTkyOjFkODMwZDQyLTg4ZDctNDA0MS1hZjExLTVhMDc1MGVlZTI3Njo2Mzc1MzkzNTc5MzI3MjUwNDY=" ^
+  400    -H "Origin: https://onecognizantbcazrapps.cognizant.com" ^
+  401    -H "Sec-Fetch-Site: same-site" ^
+  402    -H "Sec-Fetch-Mode: cors" ^
+  403    -H "Sec-Fetch-Dest: empty" ^
+  404    -H "Referer: https://onecognizantbcazrapps.cognizant.com/" ^
+  405    -H "Accept-Language: en-US,en;q=0.9" ^
+  406    --compressed &
+  407  curl "https://onecognizantazrappsproxysrvs.cognizant.com/2526/tmpwebapi//api/Job/AddAssociateSOVisit?associateid=801465&serviceOrderId=4187189" ^
+  408    -X "POST" ^
+  409    -H "Connection: keep-alive" ^
+  410    -H "Content-Length: 0" ^
+  411    -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"89^\^", ^\^"Chromium^\^";v=^\^"89^\^", ^\^";Not A Brand^\^";v=^\^"99^\^"" ^
+  412    -H "sec-ch-ua-mobile: ?0" ^
+  413    -H "tmpUser: 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" ^
+  414    -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" ^
+  415    -H "Accept: application/json, text/plain, */*" ^
+  416    -H "clientId: OEMyMDI0OUUtRTgyRi00QjcwLTlCQzgtODVBN0E5QjFDQTky" ^
+  417    -H "countryCode: USA" ^
+  418    -H "defaultTimeZone: India Standard Time" ^
+  419    -H "token: WnM0L1podFVIN293ZFpmYStTTnE2NXVuWURDdFJ4TFRtR1RuUVBiUHFBdz06OEMyMDI0OUUtRTgyRi00QjcwLTlCQzgtODVBN0E5QjFDQTkyOjFkODMwZDQyLTg4ZDctNDA0MS1hZjExLTVhMDc1MGVlZTI3Njo2Mzc1MzkzNTc5MzI3MjUwNDY=" ^
+  420    -H "Origin: https://onecognizantbcazrapps.cognizant.com" ^
+  421    -H "Sec-Fetch-Site: same-site" ^
+  422    -H "Sec-Fetch-Mode: cors" ^
+  423    -H "Sec-Fetch-Dest: empty" ^
+  424    -H "Referer: https://onecognizantbcazrapps.cognizant.com/" ^
+  425    -H "Accept-Language: en-US,en;q=0.9" ^
+  426    --compressed &
+  427  curl "https://onecognizantbcazrapps.cognizant.com/2526/TMPWebApp/Associate/Home/KeepAlive" ^
+  428    -H "Connection: keep-alive" ^
+  429    -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"89^\^", ^\^"Chromium^\^";v=^\^"89^\^", ^\^";Not A Brand^\^";v=^\^"99^\^"" ^
+  430    -H "sec-ch-ua-mobile: ?0" ^
+  431    -H "tmpUser: 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" ^
+  432    -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" ^
+  433    -H "Accept: application/json, text/plain, */*" ^
+  434    -H "clientId: OEMyMDI0OUUtRTgyRi00QjcwLTlCQzgtODVBN0E5QjFDQTky" ^
+  435    -H "countryCode: USA" ^
+  436    -H "ADRUM: isAjax:true" ^
+  437    -H "defaultTimeZone: India Standard Time" ^
+  438    -H "token: WnM0L1podFVIN293ZFpmYStTTnE2NXVuWURDdFJ4TFRtR1RuUVBiUHFBdz06OEMyMDI0OUUtRTgyRi00QjcwLTlCQzgtODVBN0E5QjFDQTkyOjFkODMwZDQyLTg4ZDctNDA0MS1hZjExLTVhMDc1MGVlZTI3Njo2Mzc1MzkzNTc5MzI3MjUwNDY=" ^
+  439    -H "Sec-Fetch-Site: same-origin" ^
+  440    -H "Sec-Fetch-Mode: cors" ^
+  441    -H "Sec-Fetch-Dest: empty" ^
+  442    -H "Referer: https://onecognizantbcazrapps.cognizant.com/2526/TMPWebApp/Associate" ^
+  443    -H "Accept-Language: en-US,en;q=0.9" ^
+  444    --compressed &
+
+
+  460  exit
+  461  code .
+  462  exit
+  463  git help config
+  464  git help config
+  465  mkdir ts-nodejs
+  466  cd ts-nodejs/
+  467  npm init -y
+  468  ls
+  469  code .
+  470  npm install express
+  471  npm install typescript ts-node @types/node  @types/express --save-dev
+  472  npx tsc --init
+  473  ls
+  474  ls -trla
+  475  touch index.ts
+  476  npx tsc --project ./
+  477  npm start index.js 
+  478  npm start
+  479  npm start
+  480  node index.js
+  481  npm start
+  482  npm build
+  483  npm run build
+  484  npm start
+  485  npm start
+  486  nodemon -h
+  487  npm i -D nodemon ts-node
+  488  nodemon --watch './**/*.ts' --exec 'ts-node' index.ts
+  489  npm install -g ts-node
+  490  history
+  491  nodemon --watch './**/*.ts' --exec 'ts-node' index.ts
+  492  npm install -g nodemon
+  493  nodemon --watch './**/*.ts' --exec 'ts-node' index.ts
+  494  nodemon --watch './**/*.ts' --exec 'ts-node' index.ts
+  495  node index.ts
+  496  node index.js
+  497      "dev:server": "nodemon --watch './**/*.ts' --exec 'ts-node' index.ts",
+  498  nodemon --watch './**/*.ts' --exec 'ts-node' index.ts
+  499  tsc --project ./
+  500  'ts-node' index.ts
+  501  nodemon --watch './**/*.ts' --exec 'ts-node' index.ts
+  502  npm install --save @types/mongod
+  504  npm install mongodb --save 
+  505  npm install --save @types/mongoose
+  506  npm i ts-mongoose mongoose @types/mongoose
+  510  npm install --save winston 
+  511  npm install morgan @types/morgan
+  512  npm install morgan @types/morgan --save
+  513  npm install dotenv --save
+  514  'ts-node' index.ts
